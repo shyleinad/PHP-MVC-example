@@ -1,0 +1,43 @@
+body {
+  font-family: arial;
+  background-color: lightblue;
+}
+#menu {
+  background-color: orange;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+ul {
+  list-style-type: none;
+}
+li a {
+  color: black;
+  text-decoration: none;
+}
+li {
+  display: inline;
+}
+a {
+  padding: 10px;
+}
+#content {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+table {
+  padding: 10px;
+  margin: auto;
+  border-collapse: collapse;
+  border: solid 1px lightgrey;
+}
+th, td {
+  padding: 8px;
+  border: solid 1px lightgrey;
+}
+td {
+  background-color: white;
+}
+th {
+  background-color: grey;
+}
